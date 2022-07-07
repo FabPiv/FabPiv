@@ -5,7 +5,7 @@
 </div>
 
 <div id="badge" align="center">
- <a href="" target="_blank">
+ <a href="[go](http://stackoverflow.com){:target="_blank" rel="noopener"}" target="_blank">
     <img  src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
    
   </a>
