@@ -6,7 +6,7 @@
 
 <div id='badge'>
  <a href="https://www.linkedin.com/in/fabrice-pivert-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank" alt="LinkedIn Badge"/>
   </a>
 </div>
 
