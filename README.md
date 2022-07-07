@@ -1,5 +1,5 @@
-<div>
-  Bonjour ! 👋<
+<div align="center">
+  Bonjour ! 👋
   
 </div>
 
@@ -13,6 +13,7 @@
         <img  src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
+  
 <img src="https://komarev.com/ghpvc/?username=FabPiv&style=flat-square&color=blue" alt=""/>
 
 
