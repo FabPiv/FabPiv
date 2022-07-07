@@ -5,7 +5,7 @@
 </div>
 
 <div id="badge" align="center">
- <a href="https://www.linkedin.com/in/fabrice-pivert-/" target="blank">
+ <a href="" target="_blank">
     <img  src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
    
   </a>
