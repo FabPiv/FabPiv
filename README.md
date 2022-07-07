@@ -6,6 +6,8 @@
 
 <div id="badge" align="center">
  <a href="[go]{(https://www.linkedin.com/in/fabrice-pivert-/):target="_blank" rel="noopener"}" >
+       <img  src="" alt="LinkedIn Badge"/>
+
    
   </a>
 </div>
