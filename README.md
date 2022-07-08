@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  Bonjour ! ,Bonjour ! 👋, vous retrouverez les différents projets réalisés lors de ma première année et ceux en cours.
+  Bonjour ! 👋, vous retrouverez les différents projets réalisés lors de ma première année et ceux en cours.
   Mon moteur c'est d'apprendre de nouvelles choses ! c'est l'une des raisons pour laquelle j'ai choisi le développement web.
   Lors de cette année j'ai pu acquérir des bonnes bases multiples languages telles que :
   
