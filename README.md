@@ -20,7 +20,8 @@
 <div align="center">
  En cour d'apprentissage :
  <p>Symfony</p> 
-  <p>Vue.js</p> 
+ <p>Reac</p> 
+  
   
   
   
