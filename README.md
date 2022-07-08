@@ -19,7 +19,7 @@
 </div>
 <div align="center">
  En cour d'apprentiddage :
- <p>Symfont</p> 
+ <p>Symfony</p> 
   <p>Vue.js</p> 
   
   
