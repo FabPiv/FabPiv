@@ -1,11 +1,22 @@
-<div align="center">
-  Bonjour ! 👋
-  
-</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
 </div>
+
+
+
+<div align="center">
+  Bonjour ! 👋, vous retrouverez les differents projets réalisé lors de ma première année et ceux en cour.
+  Lors de cette année j'ai pu acquerir des bonnes bases multiples languages tel que :
+  <p style = "bold" >Javascript</p> 
+  <p>Python</p>
+  <p>Php</p>
+  <p>MySql</p>
+</div>
+
+
+
+
 
 <div id="badge" align="center">
   
