@@ -6,14 +6,26 @@
 
 
 <div align="center">
-  Bonjour ! 👋, vous retrouverez les differents projets réalisé lors de ma première année et ceux en cour.
+  Bonjour ! 👋, vous retrouverez les differents projets réalisés lors de ma première année et ceux en cour.
+  Mon moteur c'est d'apprendre de nouvelles choses c'est l'une des raison pour laquelle j'ai choisis le developpement web.
   Lors de cette année j'ai pu acquerir des bonnes bases multiples languages tel que :
+  
   <br/>
-  <p style="background: #ffe7e8; border: 2px solid #e66465;">Javascript</p> 
+  <p>Javascript</p> 
   <p>Python</p>
   <p>Php</p>
   <p>MySql</p>
+  
 </div>
+<div align="center">
+ En cour d'apprentiddage :
+ <p>Symfont</p> 
+  <p>Vue.js</p> 
+  
+  
+  
+</div>
+
 
 
 
