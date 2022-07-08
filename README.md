@@ -6,11 +6,12 @@
 
 
 <div align="center">
-  Bonjour ! 👋, vous retrouverez les differents projets réalisés lors de ma première année et ceux en cour.
-  Mon moteur c'est d'apprendre de nouvelles choses c'est l'une des raison pour laquelle j'ai choisis le developpement web.
-  Lors de cette année j'ai pu acquerir des bonnes bases multiples languages tel que :
+  Bonjour ! ,Bonjour ! 👋, vous retrouverez les différents projets réalisés lors de ma première année et ceux en cours.
+  Mon moteur c'est d'apprendre de nouvelles choses ! c'est l'une des raisons pour laquelle j'ai choisi le développement web.
+  Lors de cette année j'ai pu acquérir des bonnes bases multiples languages telles que :
   
   <br/>
+  
   <p>Javascript</p> 
   <p>Python</p>
   <p>Php</p>
@@ -18,7 +19,7 @@
   
 </div>
 <div align="center">
- En cour d'apprentissage :
+ En cours d'apprentissage :
  <p>Symfony</p> 
 <p>React.js</p> 
 <p>Vue.js</p> 
