@@ -8,7 +8,7 @@
 <div align="center">
   Bonjour ! 👋, vous retrouverez les differents projets réalisé lors de ma première année et ceux en cour.
   Lors de cette année j'ai pu acquerir des bonnes bases multiples languages tel que :
-  <p style = "color : red" >Javascript</p> 
+  <p style="background: #ffe7e8; border: 2px solid #e66465;">Javascript</p> 
   <p>Python</p>
   <p>Php</p>
   <p>MySql</p>
