@@ -18,7 +18,7 @@
   
 </div>
 <div align="center">
- En cour d'apprentiddage :
+ En cour d'apprentissage :
  <p>Symfony</p> 
   <p>Vue.js</p> 
   
